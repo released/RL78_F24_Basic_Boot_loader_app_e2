@@ -51,9 +51,9 @@
       <ParentItem>76f247c0-0a47-461a-b088-233f5a2b5061</ParentItem>
     </Instance>
     <Instance Guid="2ec62a2f-2875-4133-aefc-50f432c808a4">
-      <Name>RL78_F24_Boot_loader_UART.fsy</Name>
+      <Name>RL78_F24_Basic_Boot_loader_UART_e2.fsy</Name>
       <Type>File</Type>
-      <RelativePath>RL78_F24_Boot_loader_UART.fsy</RelativePath>
+      <RelativePath>RL78_F24_Basic_Boot_loader_UART_e2.fsy</RelativePath>
       <TreeImageGuid>f654126d-e7ad-426d-be34-8455271d959b</TreeImageGuid>
       <ParentItem>76f247c0-0a47-461a-b088-233f5a2b5061</ParentItem>
     </Instance>
@@ -2439,12 +2439,12 @@ RFD_DATA_n=RFD_DATA_nR
   </Class>
   <Class Guid="a29a09ee-92c3-4ce7-9586-a1b058043f92">
     <Instance Guid="a29a09ee-92c3-4ce7-9586-a1b058043f92">
-      <ProjectGeneratr-GeneratedFile0>D:\SourceCode\Renesas\CS+\RL78_F24_Boot_loader_app\main.c</ProjectGeneratr-GeneratedFile0>
-      <ProjectGeneratr-GeneratedFile1>D:\SourceCode\Renesas\CS+\RL78_F24_Boot_loader_app\cstart.asm</ProjectGeneratr-GeneratedFile1>
-      <ProjectGeneratr-GeneratedFile2>D:\SourceCode\Renesas\CS+\RL78_F24_Boot_loader_app\hdwinit.asm</ProjectGeneratr-GeneratedFile2>
-      <ProjectGeneratr-GeneratedFile3>D:\SourceCode\Renesas\CS+\RL78_F24_Boot_loader_app\stkinit.asm</ProjectGeneratr-GeneratedFile3>
-      <ProjectGeneratr-GeneratedFile4>D:\SourceCode\Renesas\CS+\RL78_F24_Boot_loader_app\f24opt.asm</ProjectGeneratr-GeneratedFile4>
-      <ProjectGeneratr-GeneratedFile5>D:\SourceCode\Renesas\CS+\RL78_F24_Boot_loader_app\iodefine.h</ProjectGeneratr-GeneratedFile5>
+      <ProjectGeneratr-GeneratedFile0>main.c</ProjectGeneratr-GeneratedFile0>
+      <ProjectGeneratr-GeneratedFile1>cstart.asm</ProjectGeneratr-GeneratedFile1>
+      <ProjectGeneratr-GeneratedFile2>hdwinit.asm</ProjectGeneratr-GeneratedFile2>
+      <ProjectGeneratr-GeneratedFile3>stkinit.asm</ProjectGeneratr-GeneratedFile3>
+      <ProjectGeneratr-GeneratedFile4>f24opt.asm</ProjectGeneratr-GeneratedFile4>
+      <ProjectGeneratr-GeneratedFile5>iodefine.h</ProjectGeneratr-GeneratedFile5>
     </Instance>
   </Class>
   <Class Guid="606767c3-4bf3-4e65-90c1-19075517355d">
@@ -2480,7 +2480,7 @@ RFD_DATA_n=RFD_DATA_nR
       <DebuggerProperty-DownloadProperty-DebugInformation-DownloadFiles-DownloadItem0-DebuggerGuid />
       <DebuggerProperty-DownloadProperty-DebugInformation-DownloadFiles-DownloadItem0-IsDefaultItem>True</DebuggerProperty-DownloadProperty-DebugInformation-DownloadFiles-DownloadItem0-IsDefaultItem>
       <DebuggerProperty-DownloadProperty-DebugInformation-DownloadFiles-DownloadItem0-DefaultItemProjectGuid>77c4b16c-c8e4-4138-8566-2f15b6d81d9e</DebuggerProperty-DownloadProperty-DebugInformation-DownloadFiles-DownloadItem0-DefaultItemProjectGuid>
-      <DebuggerProperty-DownloadProperty-DebugInformation-DownloadFiles-DownloadItem0-FileName>DefaultBuild\RL78_F24_Boot_loader_app.abs</DebuggerProperty-DownloadProperty-DebugInformation-DownloadFiles-DownloadItem0-FileName>
+      <DebuggerProperty-DownloadProperty-DebugInformation-DownloadFiles-DownloadItem0-FileName>DefaultBuild\RL78_F24_Basic_Boot_loader_app_e2.abs</DebuggerProperty-DownloadProperty-DebugInformation-DownloadFiles-DownloadItem0-FileName>
       <DebuggerProperty-DownloadProperty-DebugInformation-DownloadFiles-DownloadItem0-FileType>LoadModuleFile</DebuggerProperty-DownloadProperty-DebugInformation-DownloadFiles-DownloadItem0-FileType>
       <DebuggerProperty-DownloadProperty-DebugInformation-DownloadFiles-DownloadItem0-CompilerType>Auto</DebuggerProperty-DownloadProperty-DebugInformation-DownloadFiles-DownloadItem0-CompilerType>
       <DebuggerProperty-DownloadProperty-DebugInformation-DownloadFiles-DownloadItem0-Offset>0</DebuggerProperty-DownloadProperty-DebugInformation-DownloadFiles-DownloadItem0-Offset>
@@ -2580,7 +2580,7 @@ RFD_DATA_n=RFD_DATA_nR
       <DebuggerProperty-DownloadProperty-DebugInformation-DownloadFiles-DownloadItem0-DebuggerGuid />
       <DebuggerProperty-DownloadProperty-DebugInformation-DownloadFiles-DownloadItem0-IsDefaultItem>True</DebuggerProperty-DownloadProperty-DebugInformation-DownloadFiles-DownloadItem0-IsDefaultItem>
       <DebuggerProperty-DownloadProperty-DebugInformation-DownloadFiles-DownloadItem0-DefaultItemProjectGuid>77c4b16c-c8e4-4138-8566-2f15b6d81d9e</DebuggerProperty-DownloadProperty-DebugInformation-DownloadFiles-DownloadItem0-DefaultItemProjectGuid>
-      <DebuggerProperty-DownloadProperty-DebugInformation-DownloadFiles-DownloadItem0-FileName>DefaultBuild\RL78_F24_Boot_loader_app.abs</DebuggerProperty-DownloadProperty-DebugInformation-DownloadFiles-DownloadItem0-FileName>
+      <DebuggerProperty-DownloadProperty-DebugInformation-DownloadFiles-DownloadItem0-FileName>DefaultBuild\RL78_F24_Basic_Boot_loader_app_e2.abs</DebuggerProperty-DownloadProperty-DebugInformation-DownloadFiles-DownloadItem0-FileName>
       <DebuggerProperty-DownloadProperty-DebugInformation-DownloadFiles-DownloadItem0-FileType>LoadModuleFile</DebuggerProperty-DownloadProperty-DebugInformation-DownloadFiles-DownloadItem0-FileType>
       <DebuggerProperty-DownloadProperty-DebugInformation-DownloadFiles-DownloadItem0-CompilerType>Auto</DebuggerProperty-DownloadProperty-DebugInformation-DownloadFiles-DownloadItem0-CompilerType>
       <DebuggerProperty-DownloadProperty-DebugInformation-DownloadFiles-DownloadItem0-Offset>0</DebuggerProperty-DownloadProperty-DebugInformation-DownloadFiles-DownloadItem0-Offset>
@@ -2664,7 +2664,7 @@ RFD_DATA_n=RFD_DATA_nR
       <DebuggerProperty-DownloadProperty-DebugInformation-DownloadFiles-DownloadItem0-DebuggerGuid />
       <DebuggerProperty-DownloadProperty-DebugInformation-DownloadFiles-DownloadItem0-IsDefaultItem>True</DebuggerProperty-DownloadProperty-DebugInformation-DownloadFiles-DownloadItem0-IsDefaultItem>
       <DebuggerProperty-DownloadProperty-DebugInformation-DownloadFiles-DownloadItem0-DefaultItemProjectGuid>77c4b16c-c8e4-4138-8566-2f15b6d81d9e</DebuggerProperty-DownloadProperty-DebugInformation-DownloadFiles-DownloadItem0-DefaultItemProjectGuid>
-      <DebuggerProperty-DownloadProperty-DebugInformation-DownloadFiles-DownloadItem0-FileName>DefaultBuild\RL78_F24_Boot_loader_app.abs</DebuggerProperty-DownloadProperty-DebugInformation-DownloadFiles-DownloadItem0-FileName>
+      <DebuggerProperty-DownloadProperty-DebugInformation-DownloadFiles-DownloadItem0-FileName>DefaultBuild\RL78_F24_Basic_Boot_loader_app_e2.abs</DebuggerProperty-DownloadProperty-DebugInformation-DownloadFiles-DownloadItem0-FileName>
       <DebuggerProperty-DownloadProperty-DebugInformation-DownloadFiles-DownloadItem0-FileType>LoadModuleFile</DebuggerProperty-DownloadProperty-DebugInformation-DownloadFiles-DownloadItem0-FileType>
       <DebuggerProperty-DownloadProperty-DebugInformation-DownloadFiles-DownloadItem0-CompilerType>Auto</DebuggerProperty-DownloadProperty-DebugInformation-DownloadFiles-DownloadItem0-CompilerType>
       <DebuggerProperty-DownloadProperty-DebugInformation-DownloadFiles-DownloadItem0-Offset>0</DebuggerProperty-DownloadProperty-DebugInformation-DownloadFiles-DownloadItem0-Offset>
@@ -2764,7 +2764,7 @@ RFD_DATA_n=RFD_DATA_nR
       <DebuggerProperty-DownloadProperty-DebugInformation-DownloadFiles-DownloadItem0-DebuggerGuid />
       <DebuggerProperty-DownloadProperty-DebugInformation-DownloadFiles-DownloadItem0-IsDefaultItem>True</DebuggerProperty-DownloadProperty-DebugInformation-DownloadFiles-DownloadItem0-IsDefaultItem>
       <DebuggerProperty-DownloadProperty-DebugInformation-DownloadFiles-DownloadItem0-DefaultItemProjectGuid>77c4b16c-c8e4-4138-8566-2f15b6d81d9e</DebuggerProperty-DownloadProperty-DebugInformation-DownloadFiles-DownloadItem0-DefaultItemProjectGuid>
-      <DebuggerProperty-DownloadProperty-DebugInformation-DownloadFiles-DownloadItem0-FileName>DefaultBuild\RL78_F24_Boot_loader_app.abs</DebuggerProperty-DownloadProperty-DebugInformation-DownloadFiles-DownloadItem0-FileName>
+      <DebuggerProperty-DownloadProperty-DebugInformation-DownloadFiles-DownloadItem0-FileName>DefaultBuild\RL78_F24_Basic_Boot_loader_app_e2.abs</DebuggerProperty-DownloadProperty-DebugInformation-DownloadFiles-DownloadItem0-FileName>
       <DebuggerProperty-DownloadProperty-DebugInformation-DownloadFiles-DownloadItem0-FileType>LoadModuleFile</DebuggerProperty-DownloadProperty-DebugInformation-DownloadFiles-DownloadItem0-FileType>
       <DebuggerProperty-DownloadProperty-DebugInformation-DownloadFiles-DownloadItem0-CompilerType>Auto</DebuggerProperty-DownloadProperty-DebugInformation-DownloadFiles-DownloadItem0-CompilerType>
       <DebuggerProperty-DownloadProperty-DebugInformation-DownloadFiles-DownloadItem0-Offset>0</DebuggerProperty-DownloadProperty-DebugInformation-DownloadFiles-DownloadItem0-Offset>
@@ -2780,7 +2780,7 @@ RFD_DATA_n=RFD_DATA_nR
       <DebuggerProperty-DownloadProperty-DebugInformation-DownloadFiles-DownloadItem1-DebuggerGuid />
       <DebuggerProperty-DownloadProperty-DebugInformation-DownloadFiles-DownloadItem1-IsDefaultItem>False</DebuggerProperty-DownloadProperty-DebugInformation-DownloadFiles-DownloadItem1-IsDefaultItem>
       <DebuggerProperty-DownloadProperty-DebugInformation-DownloadFiles-DownloadItem1-DefaultItemProjectGuid>00000000-0000-0000-0000-000000000000</DebuggerProperty-DownloadProperty-DebugInformation-DownloadFiles-DownloadItem1-DefaultItemProjectGuid>
-      <DebuggerProperty-DownloadProperty-DebugInformation-DownloadFiles-DownloadItem1-FileName>..\RL78_F24_Boot_loader_UART\DefaultBuild\RL78_F24_Boot_loader_UART.abs</DebuggerProperty-DownloadProperty-DebugInformation-DownloadFiles-DownloadItem1-FileName>
+      <DebuggerProperty-DownloadProperty-DebugInformation-DownloadFiles-DownloadItem1-FileName>..\RL78_F24_Basic_Boot_loader_UART_e2\DefaultBuild\RL78_F24_Basic_Boot_loader_UART_e2.abs</DebuggerProperty-DownloadProperty-DebugInformation-DownloadFiles-DownloadItem1-FileName>
       <DebuggerProperty-DownloadProperty-DebugInformation-DownloadFiles-DownloadItem1-FileType>LoadModuleFile</DebuggerProperty-DownloadProperty-DebugInformation-DownloadFiles-DownloadItem1-FileType>
       <DebuggerProperty-DownloadProperty-DebugInformation-DownloadFiles-DownloadItem1-CompilerType>Auto</DebuggerProperty-DownloadProperty-DebugInformation-DownloadFiles-DownloadItem1-CompilerType>
       <DebuggerProperty-DownloadProperty-DebugInformation-DownloadFiles-DownloadItem1-Offset>0</DebuggerProperty-DownloadProperty-DebugInformation-DownloadFiles-DownloadItem1-Offset>
@@ -3061,10 +3061,10 @@ RFD_DATA_n=RFD_DATA_nR
   </Class>
   <Class Guid="4d843d40-b00f-4fff-b0c0-ffd1a818b9a3">
     <Instance Guid="4d843d40-b00f-4fff-b0c0-ffd1a818b9a3">
-      <GenerateFileFolder>D:\SourceCode\Renesas\CS+\RL78_F24_Boot_loader_app</GenerateFileFolder>
+      <GenerateFileFolder>.</GenerateFileFolder>
       <SmcExePath>C:\Program Files (x86)\Renesas Electronics\SmartConfigurator\RL78\eclipse\SmartConfigurator.exe</SmcExePath>
       <CodeGeneratorFilesGuid>f1f83d28-5e28-4ba0-8eef-43d900de5bac</CodeGeneratorFilesGuid>
-      <SCFGFile>RL78_F24_Boot_loader_app.scfg</SCFGFile>
+      <SCFGFile>RL78_F24_Basic_Boot_loader_app_e2.scfg</SCFGFile>
     </Instance>
   </Class>
   <Class Guid="2a2c2a43-ecdb-4e88-80bd-e75f3e33db90">

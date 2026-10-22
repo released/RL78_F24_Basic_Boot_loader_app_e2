@@ -19,11 +19,11 @@
 				<option id="toolchain.enable" value="true"/>
 			</storageModule>
 			<storageModule moduleId="cdtBuildSystem" version="4.0.0">
-				<configuration artifactExtension="abs" artifactName="RL78_F24_Boot_loader_app" buildArtefactType="org.eclipse.cdt.build.core.buildArtefactType.exe" buildProperties="org.eclipse.cdt.build.core.buildArtefactType=org.eclipse.cdt.build.core.buildArtefactType.exe,org.eclipse.cdt.build.core.buildType=org.eclipse.cdt.build.core.buildType.debug" description="Debug on hardware" id="com.renesas.cdt.managedbuild.renesas.ccrl.hardwaredebug.configuration.207604483" name="DefaultBuild" parent="com.renesas.cdt.managedbuild.renesas.ccrl.hardwaredebug.configuration" postbuildStep="..\boot_flash.bat&#10;">
+				<configuration artifactExtension="abs" artifactName="RL78_F24_Basic_Boot_loader_app_e2" buildArtefactType="org.eclipse.cdt.build.core.buildArtefactType.exe" buildProperties="org.eclipse.cdt.build.core.buildArtefactType=org.eclipse.cdt.build.core.buildArtefactType.exe,org.eclipse.cdt.build.core.buildType=org.eclipse.cdt.build.core.buildType.debug" description="Debug on hardware" id="com.renesas.cdt.managedbuild.renesas.ccrl.hardwaredebug.configuration.207604483" name="DefaultBuild" parent="com.renesas.cdt.managedbuild.renesas.ccrl.hardwaredebug.configuration" postbuildStep="..\boot_flash.bat&#10;">
 					<folderInfo id="com.renesas.cdt.managedbuild.renesas.ccrl.hardwaredebug.configuration.207604483." name="/" resourcePath="">
 						<toolChain id="com.renesas.cdt.managedbuild.renesas.ccrl.hardwaredebug.toolChain.1660915678" name="Renesas CCRL Toolchain" superClass="com.renesas.cdt.managedbuild.renesas.ccrl.hardwaredebug.toolChain">
 							<targetPlatform archList="all" binaryParser="org.eclipse.cdt.core.ELF;org.eclipse.cdt.core.PE" id="com.renesas.cdt.managedbuild.renesas.ccrl.base.targetPlatform.2063705563" isAbstract="false" name="targetPlatform" osList="win32" superClass="com.renesas.cdt.managedbuild.renesas.ccrl.base.targetPlatform"/>
-							<builder buildPath="${workspace_loc:/RL78_F24_Boot_loader_app}/DefaultBuild" id="com.renesas.cdt.managedbuild.renesas.ccrl.base.builder.616457314" keepEnvironmentInBuildfile="false" managedBuildOn="true" name="builder" parallelBuildOn="true" parallelizationNumber="optimal" superClass="com.renesas.cdt.managedbuild.renesas.ccrl.base.builder"/>
+							<builder buildPath="${workspace_loc:/RL78_F24_Basic_Boot_loader_app_e2}/DefaultBuild" id="com.renesas.cdt.managedbuild.renesas.ccrl.base.builder.616457314" keepEnvironmentInBuildfile="false" managedBuildOn="true" name="builder" parallelBuildOn="true" parallelizationNumber="optimal" superClass="com.renesas.cdt.managedbuild.renesas.ccrl.base.builder"/>
 							<tool id="com.renesas.cdt.managedbuild.renesas.ccrl.base.smsasm.1307897155" name="SMS Assembler" superClass="com.renesas.cdt.managedbuild.renesas.ccrl.base.smsasm">
 								<option id="com.renesas.cdt.managedbuild.renesas.ccrl.smsasm.option.characterSet.2070725791" name="Character encoding (-character_set)" superClass="com.renesas.cdt.managedbuild.renesas.ccrl.smsasm.option.characterSet" value="com.renesas.cdt.managedbuild.renesas.ccrl.smsasm.option.characterSet.auto" valueType="enumerated"/>
 								<option id="com.renesas.cdt.managedbuild.renesas.ccrl.smsasm.option.include.981617644" name="Include file directories (-I)" superClass="com.renesas.cdt.managedbuild.renesas.ccrl.smsasm.option.include"/>
@@ -126,7 +126,7 @@
 								</option>
 								<option id="com.renesas.cdt.managedbuild.renesas.ccrl.linker.option.debugMonitor.1866134064" name="Secure memory area of OCD monitor (-debug_monitor)" superClass="com.renesas.cdt.managedbuild.renesas.ccrl.linker.option.debugMonitor" value="true" valueType="boolean"/>
 								<option IS_BUILTIN_EMPTY="false" IS_VALUE_EMPTY="false" id="com.renesas.cdt.managedbuild.renesas.ccrl.linker.option.noneLinkageOrderList.1665524357" name="None(Linkage order list)" superClass="com.renesas.cdt.managedbuild.renesas.ccrl.linker.option.noneLinkageOrderList" valueType="stringList">
-									<listOptionValue builtIn="false" value="&quot;.\RL78_F24_Boot_loader_UART.obj&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;.\RL78_F24_Basic_Boot_loader_UART_e2.obj&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;.\Smart Configurator/r_bsp/board/generic_rl78_f24\stkinit.obj&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;.\cstart.obj&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;.\ftable_RL78_F24.obj&quot;"/>
@@ -228,7 +228,7 @@
 		</cconfiguration>
 	</storageModule>
 	<storageModule moduleId="cdtBuildSystem" version="4.0.0">
-		<project id="RL78_F24_Boot_loader_app.com.renesas.cdt.managedbuild.renesas.ccrl.projectType.1154713921" name="Executable" projectType="com.renesas.cdt.managedbuild.renesas.ccrl.projectType"/>
+		<project id="RL78_F24_Basic_Boot_loader_app_e2.com.renesas.cdt.managedbuild.renesas.ccrl.projectType.1154713921" name="Executable" projectType="com.renesas.cdt.managedbuild.renesas.ccrl.projectType"/>
 	</storageModule>
 	<storageModule moduleId="scannerConfiguration">
 		<autodiscovery enabled="true" problemReportingEnabled="true" selectedProfileId=""/>

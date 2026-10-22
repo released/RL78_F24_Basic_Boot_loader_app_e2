@@ -5,10 +5,10 @@
     <PlaceholderPrefix>${</PlaceholderPrefix>
     <PlaceholderPostfix>}</PlaceholderPostfix>
   </Placeholders>
-  <Project Name="RL78_F24_Boot_loader_app" Type="Application">
+  <Project Name="RL78_F24_Basic_Boot_loader_app_e2" Type="Application">
     <Files>
-      <Path>QualityReport(RL78_F24_Boot_loader_app,DefaultBuild).txt</Path>
-      <Path>RL78_F24_Boot_loader_UART.fsy</Path>
+      <Path>QualityReport(RL78_F24_Basic_Boot_loader_app_e2,DefaultBuild).txt</Path>
+      <Path>RL78_F24_Basic_Boot_loader_UART_e2.fsy</Path>
       <Path>cstart.asm</Path>
       <Path>custom_func.c</Path>
       <Path>custom_func.h</Path>
@@ -463,7 +463,7 @@
           <GenerateMode>BuildOptionChanged</GenerateMode>
         </LibraryGenerateOptions>
         <LinkOrder>
-          <Path>DefaultBuild\RL78_F24_Boot_loader_UART.obj</Path>
+          <Path>DefaultBuild\RL78_F24_Basic_Boot_loader_UART_e2.obj</Path>
           <Path>DefaultBuild\Smart Configurator/r_bsp/board/generic_rl78_f24\stkinit.obj</Path>
           <Path>DefaultBuild\cstart.obj</Path>
           <Path>DefaultBuild\ftable_RL78_F24.obj</Path>

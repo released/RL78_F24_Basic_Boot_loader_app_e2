@@ -96,9 +96,9 @@
       <EventFunction-EventCondition1-Software-EventConditionType>Software</EventFunction-EventCondition1-Software-EventConditionType>
       <EventFunction-EventCondition1-Software-EventNumber>0</EventFunction-EventCondition1-Software-EventNumber>
       <EventFunction-EventCondition1-Software-BreakAddress-LocationType>SymbolOffset</EventFunction-EventCondition1-Software-BreakAddress-LocationType>
-      <EventFunction-EventCondition1-Software-BreakAddress-LoadModule>D:\SourceCode\_Avery_Renesas\CS+\RL78_F24_Boot_loader_app\DefaultBuild\RL78_F24_Boot_loader_app.abs</EventFunction-EventCondition1-Software-BreakAddress-LoadModule>
+      <EventFunction-EventCondition1-Software-BreakAddress-LoadModule>D:\SourceCode\_Avery_Renesas\CS+\RL78_F24_Basic_Boot_loader_app_e2\DefaultBuild\RL78_F24_Basic_Boot_loader_app_e2.abs</EventFunction-EventCondition1-Software-BreakAddress-LoadModule>
       <EventFunction-EventCondition1-Software-BreakAddress-File>r_rfd_common_api.c</EventFunction-EventCondition1-Software-BreakAddress-File>
-      <EventFunction-EventCondition1-Software-BreakAddress-Directory>D:\SourceCode\_Avery_Renesas\CS+\RL78_F24_Boot_loader_app\RFDRL78T02\source\common\</EventFunction-EventCondition1-Software-BreakAddress-Directory>
+      <EventFunction-EventCondition1-Software-BreakAddress-Directory>D:\SourceCode\_Avery_Renesas\CS+\RL78_F24_Basic_Boot_loader_app_e2\RFDRL78T02\source\common\</EventFunction-EventCondition1-Software-BreakAddress-Directory>
       <EventFunction-EventCondition1-Software-BreakAddress-Symbol>_R_RFD_SetFlashMemoryMode</EventFunction-EventCondition1-Software-BreakAddress-Symbol>
       <EventFunction-EventCondition1-Software-BreakAddress-Offset>42</EventFunction-EventCondition1-Software-BreakAddress-Offset>
       <EventFunction-EventCondition1-Software-EffectiveBreakAddress-LocationType>Address</EventFunction-EventCondition1-Software-EffectiveBreakAddress-LocationType>
@@ -111,9 +111,9 @@
       <EventFunction-EventCondition2-Software-EventConditionType>Software</EventFunction-EventCondition2-Software-EventConditionType>
       <EventFunction-EventCondition2-Software-EventNumber>1</EventFunction-EventCondition2-Software-EventNumber>
       <EventFunction-EventCondition2-Software-BreakAddress-LocationType>SymbolOffset</EventFunction-EventCondition2-Software-BreakAddress-LocationType>
-      <EventFunction-EventCondition2-Software-BreakAddress-LoadModule>D:\SourceCode\_Avery_Renesas\CS+\RL78_F24_Boot_loader_app\DefaultBuild\RL78_F24_Boot_loader_app.abs</EventFunction-EventCondition2-Software-BreakAddress-LoadModule>
+      <EventFunction-EventCondition2-Software-BreakAddress-LoadModule>D:\SourceCode\_Avery_Renesas\CS+\RL78_F24_Basic_Boot_loader_app_e2\DefaultBuild\RL78_F24_Basic_Boot_loader_app_e2.abs</EventFunction-EventCondition2-Software-BreakAddress-LoadModule>
       <EventFunction-EventCondition2-Software-BreakAddress-File>r_rfd_common_api.c</EventFunction-EventCondition2-Software-BreakAddress-File>
-      <EventFunction-EventCondition2-Software-BreakAddress-Directory>D:\SourceCode\_Avery_Renesas\CS+\RL78_F24_Boot_loader_app\RFDRL78T02\source\common\</EventFunction-EventCondition2-Software-BreakAddress-Directory>
+      <EventFunction-EventCondition2-Software-BreakAddress-Directory>D:\SourceCode\_Avery_Renesas\CS+\RL78_F24_Basic_Boot_loader_app_e2\RFDRL78T02\source\common\</EventFunction-EventCondition2-Software-BreakAddress-Directory>
       <EventFunction-EventCondition2-Software-BreakAddress-Symbol>_R_RFD_SetFlashMemoryMode</EventFunction-EventCondition2-Software-BreakAddress-Symbol>
       <EventFunction-EventCondition2-Software-BreakAddress-Offset>27</EventFunction-EventCondition2-Software-BreakAddress-Offset>
       <EventFunction-EventCondition2-Software-EffectiveBreakAddress-LocationType>Address</EventFunction-EventCondition2-Software-EffectiveBreakAddress-LocationType>
@@ -2043,7 +2043,7 @@
       <PanelCount>8</PanelCount>
       <InstanceGuid0>f18ac11b-df10-4416-9a7f-8680b26bc8d3</InstanceGuid0>
       <HelperClassGuid0>e9e5eb74-fd3b-4a6d-9bee-88bf153cb9b0</HelperClassGuid0>
-      <Document.Path0>D:\SourceCode\_Avery_Renesas\CS+\RL78_F24_Boot_loader_app\src\smc_gen\Config_TAU0_1\Config_TAU0_1_user.c</Document.Path0>
+      <Document.Path0>D:\SourceCode\_Avery_Renesas\CS+\RL78_F24_Basic_Boot_loader_app_e2\src\smc_gen\Config_TAU0_1\Config_TAU0_1_user.c</Document.Path0>
       <ProjectItem.InstanceGuid0>9020e24a-7aa7-42bb-8b1c-2f3005058723</ProjectItem.InstanceGuid0>
       <IndexId0>0</IndexId0>
       <ShowIndexId0>False</ShowIndexId0>
@@ -2056,7 +2056,7 @@ FirstVisiblePosition:Right,0,0
 </StatusText0>
       <InstanceGuid1>a2186d14-e6e2-4c11-8659-f54164d3295e</InstanceGuid1>
       <HelperClassGuid1>e9e5eb74-fd3b-4a6d-9bee-88bf153cb9b0</HelperClassGuid1>
-      <Document.Path1>D:\SourceCode\_Avery_Renesas\CS+\RL78_F24_Boot_loader_app\custom_func.c</Document.Path1>
+      <Document.Path1>D:\SourceCode\_Avery_Renesas\CS+\RL78_F24_Basic_Boot_loader_app_e2\custom_func.c</Document.Path1>
       <ProjectItem.InstanceGuid1>1ec9d686-14d6-41a7-95fe-23df12bb0953</ProjectItem.InstanceGuid1>
       <IndexId1>0</IndexId1>
       <ShowIndexId1>False</ShowIndexId1>
@@ -2069,7 +2069,7 @@ FirstVisiblePosition:Right,0,0
 </StatusText1>
       <InstanceGuid2>bf9005ce-e319-4267-8de3-8363a8ae3550</InstanceGuid2>
       <HelperClassGuid2>e9e5eb74-fd3b-4a6d-9bee-88bf153cb9b0</HelperClassGuid2>
-      <Document.Path2>D:\SourceCode\_Avery_Renesas\CS+\RL78_F24_Boot_loader_app\main.c</Document.Path2>
+      <Document.Path2>D:\SourceCode\_Avery_Renesas\CS+\RL78_F24_Basic_Boot_loader_app_e2\main.c</Document.Path2>
       <ProjectItem.InstanceGuid2>4db395c2-52b0-4d1f-9eb8-1d402ecd2183</ProjectItem.InstanceGuid2>
       <IndexId2>0</IndexId2>
       <ShowIndexId2>False</ShowIndexId2>
@@ -2082,7 +2082,7 @@ FirstVisiblePosition:Right,0,0
 </StatusText2>
       <InstanceGuid3>a31550c5-8986-4921-b4d0-da485e94568d</InstanceGuid3>
       <HelperClassGuid3>e9e5eb74-fd3b-4a6d-9bee-88bf153cb9b0</HelperClassGuid3>
-      <Document.Path3>D:\SourceCode\_Avery_Renesas\CS+\RL78_F24_Boot_loader_app\ftable.inc</Document.Path3>
+      <Document.Path3>D:\SourceCode\_Avery_Renesas\CS+\RL78_F24_Basic_Boot_loader_app_e2\ftable.inc</Document.Path3>
       <ProjectItem.InstanceGuid3>0049a026-a4ac-4938-b45c-4f0524faca3c</ProjectItem.InstanceGuid3>
       <IndexId3>0</IndexId3>
       <ShowIndexId3>False</ShowIndexId3>
@@ -2095,7 +2095,7 @@ FirstVisiblePosition:Right,0,0
 </StatusText3>
       <InstanceGuid4>d7bcf172-da47-4bcb-a306-36d177a7cbe0</InstanceGuid4>
       <HelperClassGuid4>e9e5eb74-fd3b-4a6d-9bee-88bf153cb9b0</HelperClassGuid4>
-      <Document.Path4>D:\SourceCode\_Avery_Renesas\CS+\RL78_F24_Boot_loader_app\cstart.asm</Document.Path4>
+      <Document.Path4>D:\SourceCode\_Avery_Renesas\CS+\RL78_F24_Basic_Boot_loader_app_e2\cstart.asm</Document.Path4>
       <ProjectItem.InstanceGuid4>76c8d34b-30be-4a41-8f79-6aa1830e2f66</ProjectItem.InstanceGuid4>
       <IndexId4>0</IndexId4>
       <ShowIndexId4>False</ShowIndexId4>
@@ -2108,7 +2108,7 @@ FirstVisiblePosition:Right,0,0
 </StatusText4>
       <InstanceGuid5>be840b2d-15e0-4591-8d4a-58c1574ae584</InstanceGuid5>
       <HelperClassGuid5>e9e5eb74-fd3b-4a6d-9bee-88bf153cb9b0</HelperClassGuid5>
-      <Document.Path5>D:\SourceCode\_Avery_Renesas\CS+\RL78_F24_Boot_loader_app\ftable_RL78_F24.asm</Document.Path5>
+      <Document.Path5>D:\SourceCode\_Avery_Renesas\CS+\RL78_F24_Basic_Boot_loader_app_e2\ftable_RL78_F24.asm</Document.Path5>
       <ProjectItem.InstanceGuid5>06c05ce7-7e01-4d2b-a3cf-dc3726de8c6c</ProjectItem.InstanceGuid5>
       <IndexId5>0</IndexId5>
       <ShowIndexId5>False</ShowIndexId5>
@@ -2121,7 +2121,7 @@ FirstVisiblePosition:Right,0,0
 </StatusText5>
       <InstanceGuid6>790baccb-b5af-42ea-9cff-8224c691b844</InstanceGuid6>
       <HelperClassGuid6>e9e5eb74-fd3b-4a6d-9bee-88bf153cb9b0</HelperClassGuid6>
-      <Document.Path6>D:\SourceCode\_Avery_Renesas\CS+\RL78_F24_Boot_loader_app\src\smc_gen\r_bsp\mcu\all\r_bsp_common_ccrl.asm</Document.Path6>
+      <Document.Path6>D:\SourceCode\_Avery_Renesas\CS+\RL78_F24_Basic_Boot_loader_app_e2\src\smc_gen\r_bsp\mcu\all\r_bsp_common_ccrl.asm</Document.Path6>
       <ProjectItem.InstanceGuid6>e4f77023-1c60-458e-a511-3e95e66a4e88</ProjectItem.InstanceGuid6>
       <IndexId6>0</IndexId6>
       <ShowIndexId6>False</ShowIndexId6>
@@ -2134,7 +2134,7 @@ FirstVisiblePosition:Right,0,0
 </StatusText6>
       <InstanceGuid7>67307bac-8bae-4d38-b623-3f05487c0016</InstanceGuid7>
       <HelperClassGuid7>e9e5eb74-fd3b-4a6d-9bee-88bf153cb9b0</HelperClassGuid7>
-      <Document.Path7>D:\SourceCode\_Avery_Renesas\CS+\RL78_F24_Boot_loader_app\RFDRL78T02\source\common\r_rfd_common_api.c</Document.Path7>
+      <Document.Path7>D:\SourceCode\_Avery_Renesas\CS+\RL78_F24_Basic_Boot_loader_app_e2\RFDRL78T02\source\common\r_rfd_common_api.c</Document.Path7>
       <ProjectItem.InstanceGuid7>c37b2e0d-a113-4059-a439-1ad160f11c98</ProjectItem.InstanceGuid7>
       <IndexId7>0</IndexId7>
       <ShowIndexId7>False</ShowIndexId7>

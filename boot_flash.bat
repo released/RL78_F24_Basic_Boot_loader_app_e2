@@ -1,4 +1,7 @@
-::.\srec_cat.exe  ..\RL78_F24_Boot_loader_UART\DefaultBuild\boot0000_4FFF.hex -Intel .\DefaultBuild\flash5000_3FFFF.hex -Intel -o .\boot_flash.hex -Intel -Output_Block_Size=16
+@echo off
+rem Use the same command-file paths in CS+ and e2 studio.
+pushd "%~dp0DefaultBuild" || exit /b 1
+::.\srec_cat.exe  ..\RL78_F24_Basic_Boot_loader_UART_e2\DefaultBuild\boot0000_4FFF.hex -Intel .\DefaultBuild\flash5000_3FFFF.hex -Intel -o .\boot_flash.hex -Intel -Output_Block_Size=16
 
 :: save app code hex to back hex file
 ..\srec_cat.exe @..\1backupHex.cmd
@@ -21,3 +24,7 @@
 :: covert boot/app code hex (w/ CRC) to boot/app code bin
 ..\srec_cat.exe @..\7generateBootAppBin.cmd
 
+
+set basic_package_result=%errorlevel%
+popd
+exit /b %basic_package_result%
